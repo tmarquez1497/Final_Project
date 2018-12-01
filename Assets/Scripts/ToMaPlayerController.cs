@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 
-public class playerController : MonoBehaviour
+public class ToMaPlayerController : MonoBehaviour
 {
 
     private Rigidbody2D rb2d;

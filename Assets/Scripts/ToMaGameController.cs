@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class gameController : MonoBehaviour {
+public class ToMaGameController : MonoBehaviour {
 
     public GameObject[] shells;
     public Vector2 spawnValues;

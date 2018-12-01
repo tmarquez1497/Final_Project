@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class collectShell : MonoBehaviour {
+public class ToMaCollectShell : MonoBehaviour {
 
     public GameObject explosion;
     public Text countText;
